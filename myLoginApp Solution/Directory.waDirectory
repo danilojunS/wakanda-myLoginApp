@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
-	<group ID="01000000000000000000000000000000" name="Admin">
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+	<group ID="01000000000000000000000000000000" name="Admin">	</group>
+	<group ID="EBEB3CFAC3604D479A9A626AC342CB22" name="Manager">
+		<include user="danilojunS" userID="A24B62EE3A3C48B7855E1B1B47960013"/>
 	</group>
+	<user ID="A24B62EE3A3C48B7855E1B1B47960013" name="danilojunS" fullName="Danilo Jun Shibata" password="423b582c5050971bc646d66a0b2244cf"/>
+	<user ID="E24BFE176C0D4A498E670DAE8A7AD91A" name="fDupe" fullName="Francis Dupé" password="93e2bcb21f9b5ebe4f146b9dcb5d96b2"/>
 </directory>
-
